@@ -9,3 +9,4 @@ seaborn
 umap-learn
 umap-learn[plot]
 dask[dataframe]
+tensorflow
